@@ -1,1 +1,1 @@
-# Solving-the-Iris-Flower-Dataset---Python
+The popular Iris FLower Dataset is being solved by using DecisionTreeClassifier in Python
