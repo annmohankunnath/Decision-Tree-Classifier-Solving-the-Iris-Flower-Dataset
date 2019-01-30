@@ -1,1 +1,1 @@
-The popular Iris FLower Dataset is being solved by using DecisionTreeClassifier in Python
+Using Decision Tree Classifiers to classify images in the Iris Dataset
